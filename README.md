@@ -1,4 +1,3 @@
-## Hi there 👋
 <h1 align="center">Hi 👋, I'm Genevieve Awa</h1>
 <h3 align="center">A seasoned DevOps Engineer and full-stack developer.</h3>
 
