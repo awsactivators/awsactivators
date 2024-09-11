@@ -1,13 +1,17 @@
 <h1 align="center">Hi 👋, I'm Genevieve Awa</h1>
-<h3 align="center">A seasoned DevOps Engineer and a Full-Stack developer.</h3>
+<h3 align="center">A seasoned DevOps Engineer and full-stack developer.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=awsactivators&label=Profile%20views&color=0e75b6&style=flat" alt="awsactivators" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=awsactivators" alt="awsactivators" /></a> </p>
 
+- 🔭 I’m currently working on **Personal Project**
+
 - 🌱 I’m currently learning **C#, ASP.NET, React, jQuery, Javascript**
 
-- 💬 Ask me about **Docker, AWS, Kubernetes, HTML, CSS, Terraform, Jenkins**
+- 👯 I’m looking to collaborate on **making some web/mobile applications**
+
+- 💬 Ask me about **Docker, AWS, Kubernetes, HTML, CSS**
 
 - 📫 How to reach me **awavieve@gmail.com**
 
